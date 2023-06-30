@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "fullName": "Amarjeet Ray",
+      "email": "amarjeetray6515@gmail.com",
+      "password": "fsdfsf",
+      "id": 2
+    },
+    {
+      "fullName": "Vishal",
+      "email": "amarjeetray6515@gmail.com",
+      "password": "fsdfsf",
+      "id": 3
+    },
+    {
+      "fullName": "Aman",
+      "email": "aman@gmail.com",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "tracker": [
+    {
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": "758",
+      "date": "2023-06-16",
+      "id": 1
+    },
+    {
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": "758",
+      "date": "2023-06-16",
+      "id": 2
+    },
+    {
+      "type": "Expense",
+      "category": "Housing",
+      "amount": "15444",
+      "date": "2023-06-14",
+      "id": 3
+    },
+    {
+      "type": "Expense",
+      "category": "Housing",
+      "amount": "15444",
+      "date": "2023-06-14",
+      "id": 4
+    }
+  ]
+}
